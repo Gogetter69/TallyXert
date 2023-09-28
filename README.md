@@ -1,11 +1,11 @@
-<h1>Pure Pro</h1>
+<h1>Tally X</h1>
 
 [![flask-proxy](https://github-readme-stats.vercel.app/api/pin/?username=PurePro4561&repo=purepro4561.github.io&theme=dark)](https://github.com/purepro4561/purepro4561.github.io)<br/>
 
 <a href="https://github.com/PurePro4561/PurePro4561.github.io/LICENSE"><img src="https://img.shields.io/github/license/PurePro4561/PurePro4561.github.io.svg?style=flat" alt="License"></a>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=PurePro4561&label=Profile Visitors&color=001eff&style=flat" alt="PurePro4561" />
+  <img src="https://komarev.com/ghpvc/?username=PurePro4561&label=Profile Visitors&color=001eff&style=flat" alt="TallyX" />
   
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurePro4561%2FPurePro4561.github.io&count_bg=%2300EEFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
