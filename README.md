@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=TallyX&label=Profile Visitors&color=001eff&style=flat" alt="TallyX" />
   
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurePro4561%2FPurePro4561.github.io&count_bg=%2300EEFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurePro4561%2FTallyX.github.io&count_bg=%2300EEFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/TallyX/TallyX.github.io)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/purepro4561/purepro4561.github.io-replit)
